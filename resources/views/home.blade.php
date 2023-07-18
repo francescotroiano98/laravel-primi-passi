@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>HELLO WORD</h1>
+        <h1>{{$intro}}</h1>
     </header>
 </body>
 </html>
